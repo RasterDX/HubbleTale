@@ -1,19 +1,20 @@
 # HubbleTale
 
 # MVP to do list:
-#Code
+
+# Code
 -rewrite
-#Interface
+# Interface
 - Title screen dynamic bkg (nasa api)
 - etc.
-#Mechanics
+# Mechanics
 -keep black holes & meteorites
 -rotate
 -meteorite spawn points
 -black holes spawn points
 -wormwholes
 -shooter
-#Levels
+# Levels
 -Flow refactoring
-#Story
+# Story
 -
