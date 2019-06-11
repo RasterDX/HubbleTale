@@ -1,4 +1,5 @@
 # HubbleTale
+HubbleTale is a space exploration browser game developed at the 2018 NASA Space Apps Challenge in Iasi by Razvan Maftei, Andreea Zlei and Albert Gherasim. It won 3rd place.
 
 # MVP to do list:
 
